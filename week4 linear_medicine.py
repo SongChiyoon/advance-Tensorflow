@@ -1,4 +1,5 @@
-# Lab 5 Logistic Regression Classifier
+# Logistic Regression Classifier for diabetes#
+# code by song
 import tensorflow as tf
 import numpy as np
 import csv
